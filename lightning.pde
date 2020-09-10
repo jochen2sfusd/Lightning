@@ -1,4 +1,5 @@
 int startX = 0, startY = 150, endX = 0, endY = 150, n = 0;
+
 void setup()
 {
   size(300,300);
